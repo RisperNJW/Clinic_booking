@@ -34,8 +34,7 @@ This project demonstrates how to design a real-world relational database with pr
 
 ---
 ## 📷 Entity Relationship Diagram (ERD)
-[ERDC:./Clinic_data.png]()
-
+[ERDC:](./Clinic_data.png)
 
 ## 🛠️ Setup Instructions
 
