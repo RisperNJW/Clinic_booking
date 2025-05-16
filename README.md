@@ -33,6 +33,9 @@ This project demonstrates how to design a real-world relational database with pr
   - `Appointments` ↔ `Payments`: One-to-One
 
 ---
+## 📷 Entity Relationship Diagram (ERD)
+[ERDC:./Clinic_data.png]()
+
 
 ## 🛠️ Setup Instructions
 
